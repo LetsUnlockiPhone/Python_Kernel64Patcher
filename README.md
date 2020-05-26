@@ -1,9 +1,13 @@
 # Python_Kernel64Patcher
 64-bit Kernel patcher that currently supports iOS 11-13 written in Python. This patcher requires only 3 basic dependencies so it's not big nightmare with compiling it like liboffsetfinder64.
 # Requirements
+
 Homebrew - https://brew.sh/index_pl
+
 Python3 - brew install python3
+
 argparse - pip install argparse-utils
+
 # Why did I make this?
 I made this to have working kernel patcher that I can use on any computer without having problems with compiling.
 # Usage
