@@ -64,4 +64,5 @@ if args.output:
 	print("Writing out patched file to " + output)
 else:
 	print("Output file not specified. Exiting...")
+	system("rm -rf ./kernel.inprogress")
 	sys.exit(1)
