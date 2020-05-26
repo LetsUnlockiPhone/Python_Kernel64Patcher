@@ -10,7 +10,9 @@ I made this to have working kernel patcher that I can use on any computer withou
 Before using kernel with my tool you need to decompress it with img4lib: ./img4 -i input -o output
 
 Patch iOS 11 kernel - ./Kernel64Patcher.py -i input -o output -a11 AMFI
+
 Patch iOS 12 kernel - ./Kernel64Patcher.py -i input -o output -a12 AMFI
+
 Patch iOS 13 kernel - ./Kernel64Patcher.py -i input -o output -a13 AMFI
 
 # Credits
