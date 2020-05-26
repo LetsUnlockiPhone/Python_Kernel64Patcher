@@ -62,3 +62,6 @@ if args.output:
 	output = str(args.output)
 	system("mv " + "./kernel.inprogress " + output)
 	print("Writing out patched file to " + output)
+else:
+	print("Output file not specified. Exiting...")
+	sys.exit(1)
