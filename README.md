@@ -22,6 +22,12 @@ Patch iOS 13 kernel - ./Kernel64Patcher.py -i input -o output -a13 AMFI
 # Credits
 @L0W_P1X3L , @mcg29_ , @Ralph0045 - for sharing kernel patches in past so I was able to add them automatically to my tool.
 
+# Upcoming features
+
+- iOS 10 AMFI patch
+
+- Maybe more kernel patches
+
 # Screenshot of tool
 ![](photo.png)
 
